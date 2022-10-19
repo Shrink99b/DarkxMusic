@@ -1,4 +1,4 @@
-from pyrogram import Client, errors
+1from pyrogram import Client, errors
 from pyrogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent
 
 from youtubesearchpython import VideosSearch

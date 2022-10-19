@@ -1,4 +1,4 @@
-1import os
+import os
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from config import BOT_NAME as bn

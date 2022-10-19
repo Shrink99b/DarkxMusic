@@ -8,14 +8,14 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 @Client.on_message(command("start") & filters.private & ~filters.group & ~filters.edited)
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAx0CZp7eIAACZyJjThL0sfPlWyCJHXo2OfIXJHC3LwACdAYAArJscVY0KNBsR3kYDh4E")
+    await message.reply_sticker("CAACAgQAAxkBAAICnmNPw5ORQsh-E3CFX7KZIvK3cytcAALsCgACvyLZUYAtqvCiyckiKgQ")
     await message.reply_photo(
         photo=f"{START_IMG}",
         caption=f""" ** ʜᴇʏ {message.from_user.mention()} , 🥀\n\n
 ๏ ᴛʜɪs ɪs [{bn}](t.me/{bu}) ,  !
  ᴀ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ. ** """,
+ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴ. ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [

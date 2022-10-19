@@ -34,15 +34,15 @@ async def help_cmd(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel", url=f"https://t.me/{CHANNEL_UPDATES}"
+                        "📨 ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/ariyan_server"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗑️ Close", callback_data="close_play"
+                        "🗑️ ᴄʟᴏsᴇ", callback_data="close_play"
                     )
                 ]
             ]

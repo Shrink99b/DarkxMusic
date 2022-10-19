@@ -1,14 +1,14 @@
 {
-  "name": "𝐆𝐉𝟓𝟏𝟔🔆𝐌𝐔𝐒𝐈𝐂♪"
+  "name": "ᴀʀɪʏᴀɴ X ᴍᴜsɪᴄ"
 ,
-  "logo": "https://te.legra.ph/file/be210d0315f6d723401da.jpg",
-  "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
+  "logo": "https://te.legra.ph/file/804117693a10643c72a14.jpg",
+  "description": "A SuperFast Music Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/MrProgrammer72/GJ516VCBOT",
+  "repository": "https://github.com/Prince-ariyan-143/DarkxMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram String Session of assistant account",
+      "description": "Pyrogram String Session of assistant account @ARIYAN_STRING_BOT",
       "required": true
     },
     "BOT_TOKEN": {
@@ -36,32 +36,34 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "export_gabbar"
+      "value": "Prince_ariyan_143"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "GJ516_DISCUSS_GROUP"
+      "value": "ariyan_discus"
 
     },
     "CHANNEL_UPDATES": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "myworldGJ516"
+      "value": "ariyan_server"
 
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1864894033"
+      "value": "5787575060"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
-      "required": false
+      "required": true,
+      "value": "https://te.legra.ph/file/804117693a10643c72a14.jpg"
     },
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
-      "required": false
+      "required": true,
+      "value": "https://te.legra.ph/file/508209f27db5a305d1dd6.jpg"
     },
     "PMPERMIT": {
       "description": "If you want to notify users who pm to assistant account that it's the assistant account of your bot so don't spam messages there (ENABLE/DISABLE).",

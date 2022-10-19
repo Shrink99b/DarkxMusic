@@ -211,7 +211,7 @@ async def play(_, message: Message):
                 ],
                 [
                    InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
-                   InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_play")
+                   InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ ", callback_data="close_play")
                 ],
             ]
         ),
@@ -238,7 +238,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
-                    InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_play")
+                    InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ ", callback_data="close_play")
                 ],
             ]
         ),

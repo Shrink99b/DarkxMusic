@@ -210,6 +210,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📨 Channel", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
+                   InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
                 ],
             ]
@@ -236,6 +237,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
+                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
                 ],
             ]

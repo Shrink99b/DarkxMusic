@@ -1,9 +1,9 @@
 
  <h2 align="center">   
-    ──「  ᴀʀɪʏᴀɴ X ᴍᴜsɪᴄ 」──  
+    ──「 ᴀʀɪʏᴀɴ X ᴍᴜsɪᴄ 」──  
    </h2>  
  <p align="center">   
-<img src="https://te.legra.ph/file/cb2763a4fd9af49b26cb0.jpg">   
+<img src="https://te.legra.ph/file/804117693a10643c72a14.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com//DarkxMusic/stargazers"><img src="https://img.shields.io/github/stars/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Prince-ariyan-143/DarkxMusic/network/members"> <img src="https://img.shields.io/github/forks/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
@@ -110,5 +110,5 @@
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b> 
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/Prince_ariyan_143)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Prince-ariyan-143/DarkxMusic) </b> 
 ━━━━━━━━━━━━━━━━━━━━

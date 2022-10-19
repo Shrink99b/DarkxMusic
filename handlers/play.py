@@ -206,12 +206,12 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("📨 ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                   InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
-                   InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
+                   InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
+                   InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_play")
                 ],
             ]
         ),
@@ -233,12 +233,12 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("📨 ᴜᴘᴅᴀᴛᴇ ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
-                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
+                    InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
+                    InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ", callback_data="close_play")
                 ],
             ]
         ),

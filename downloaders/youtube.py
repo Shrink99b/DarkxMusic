@@ -1,4 +1,4 @@
-from os import path
+1from os import path
 
 from yt_dlp import YoutubeDL
 

@@ -109,5 +109,5 @@
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/Prince_ariyan_143)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Prince-ariyan-143/DarkxMusic) </b> 
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/Prince-ariyan-143)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Prince-ariyan-143/DarkxMusic) </b> 
 ━━━━━━━━━━━━━━━━━━━━

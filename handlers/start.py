@@ -13,11 +13,9 @@ async def start_(client: Client, message: Message):
         photo=f"{START_IMG}",
         caption=f""" ** Hey {message.from_user.mention()} , 🥀\n\n
 ๏ This is [{bn}](t.me/{bu}) ,  !
-➻ The most Powerful telegram music  bot with some awesome and useful features.
+ ᴀ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-──────────────────
-๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🖤 by : [𝗝𝝙𝗬🥀](https://t.me/{me}) ** """,
+ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ. ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [

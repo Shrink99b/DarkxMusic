@@ -1,4 +1,4 @@
-1from pyrogram import Client
+from pyrogram import Client
 from pytgcalls import PyTgCalls
 from pytgcalls.types import Update
 from pytgcalls.types.input_stream import InputStream

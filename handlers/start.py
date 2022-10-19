@@ -15,7 +15,7 @@ async def start_(client: Client, message: Message):
 ๏ ᴛʜɪs ɪs [{bn}](t.me/{bu}) ,  !
  ᴀ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴ. ** """,
+ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ\n ɪɴ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴ. ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [

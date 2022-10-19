@@ -1,4 +1,4 @@
-1from os import path
+from os import path
 import asyncio
 
 from helpers.errors import FFmpegReturnCodeError

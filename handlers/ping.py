@@ -37,7 +37,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-@Client.on_message(command(["ping", "repo", "gabbar", "alive"]) & filters.group & ~filters.edited & ~filters.private)
+@Client.on_message(command(["ping", "repo", "ariyan", "alive"]) & filters.group & ~filters.edited & ~filters.private)
 
 async def help(client: Client, message: Message):
     await message.delete()
@@ -49,26 +49,26 @@ async def help(client: Client, message: Message):
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
-    await message.reply_sticker("CAACAgUAAx0CZp7eIAACYn9jQ4fSHUbGxAMFJz_-kaRcOuoRWAACDgcAAruXGFbarx8_grqJYh4E")
+    await message.reply_sticker("CAACAgQAAxkBAAICpGNPxPHPdw3hyH_5Rc1yGAGPH9htAAKOCQACpZdxUYvHGycIZ7mtKgQ")
     jay = await message.reply_photo(
         photo=f"{PING_IMG}",
         caption=" Pinging...⚡ ",
     )
     await jay.edit_text(
-        f"""<b> pong ping ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ🥀](https://t.me/export_gabbar)||""",
+        f"""<b> ᴘᴏɴɢ ᴘɪɴɢ ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ ᴜᴘᴛɪᴍᴇ : {bot_uptime}\n🔮 ᴄᴘᴜ : {cpu}%\n💫 ᴅɪsᴋ : {disk}%\n❤️ ʀᴀᴍ : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴘʀɪɴᴄᴇ ᴀʀɪʏᴀɴ🥀](https://t.me/Prince_ariyan_143)||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "📨 sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}"
+                        "📨 ᴜᴘᴅᴀᴛᴇ ", url=f"https://t.me/{CHANNEL_UPDATES}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "💡Git repo ", url="https://te.legra.ph/file/db7c6b18567b5e81165ad.mp4"
+                        "🔎 ʙᴏᴛ ʀᴇᴘᴏ ", url="https://github.com/Prince-ariyan-143/DarkxMusic"
                     )
                 ]
             ]

@@ -12,4 +12,4 @@ def get(chat_id: int) -> Union[List[int], bool]:
     if chat_id in admins:
         return admins[chat_id]
 
-    return False1
+    return False

@@ -1,12 +1,12 @@
 
  <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
+    ──「  ᴀʀɪʏᴀɴ X ᴍᴜsɪᴄ 」──  
    </h2>  
  <p align="center">   
 <img src="https://te.legra.ph/file/cb2763a4fd9af49b26cb0.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com//DarkxMusic/stargazers"><img src="https://img.shields.io/github/stars/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Prince-ariyan-143/DarkxMusic/network/members"> <img src="https://img.shields.io/github/forks/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
@@ -48,7 +48,7 @@
 <summary>𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🥀</summary>
 
 - 🧪 Get `SESSION_NAME` variable: 
-  - [``Pyrogram Session``](https://telegram.me/StringFatherBot)
+  - [``Pyrogram Session``](https://telegram.me/ARIYAN_STRING_BOT)
  </details>
  
  <details>
@@ -97,10 +97,13 @@
  </h3> 
 
   <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/ariyan_discus"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
  <p align="center"> 
- <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://telegram.me/ariyan_server"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ </p> 
+ <p align="center"> 
+ <a href="https://telegram.me/Prince_ariyan_143"><img src="https://img.shields.io/badge/-Developer-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 ━━━━━━━━━━━━━━━━━━━━
     <h3 align="center"> 

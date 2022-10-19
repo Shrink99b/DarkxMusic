@@ -2,7 +2,7 @@
  <h2 align="center">   
     ──「 ᴀʀɪʏᴀɴ X ᴍᴜsɪᴄ 」──  
    </h2>  
- <p align="center">https://t.me/Prince_ariyan_143<img src="https://te.legra.ph/file/804117693a10643c72a14.jpg"
+ <p align="center"><a href="https://t.me/prince_ariyan_143"><img src="https://te.legra.ph/file/f2ce8473706da8aa1edb3.jpg"></a></p>
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com//DarkxMusic/stargazers"><img src="https://img.shields.io/github/stars/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Prince-ariyan-143/DarkxMusic/network/members"> <img src="https://img.shields.io/github/forks/Prince-ariyan-143/DarkxMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 

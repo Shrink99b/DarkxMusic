@@ -43,7 +43,7 @@ def time_to_seconds(time):
 
 
 @Client.on_message(
-    command(["play", "p", "fuck"])
+    command(["play", "py", "yt"])
     & filters.group
     & ~filters.edited
     & ~filters.forwarded
@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    programmer = await message.reply("🔄 Processing Query... Please Wait!")
+    programmer = await message.reply("🔄 ᴘʀᴏᴄᴇssɪɴɢ ǫᴜᴇʀʏ... ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ!")
 
     chumtiya = message.from_user.mention
 
@@ -65,7 +65,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Exportgabbar"
+        user.first_name = "Prince-ariyan-143"
     usar = user
     wew = usar.id
     try:
@@ -202,7 +202,7 @@ async def play(_, message: Message):
     if int(chat_id) in ACTV_CALLS:
         position = await queues.put(chat_id, file=file_path)
         await message.reply_text(
-            text=f"**⏳ Added to Queue at #{position} **\n💡**Title :**[{title[:65]}]({url})\n\n🕤**Duration :** `{duration}` **min**\n👤**Requested by​ : **{chumtiya}",
+            text=f"**⏳ ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ #{position} **\n💡**ᴛɪᴛʟᴇ :**[{title[:65]}]({url})\n\n🕤**ᴅᴜʀᴀᴛɪᴏɴ :** `{duration}` **min**\n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : **{chumtiya}",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -229,7 +229,7 @@ async def play(_, message: Message):
             )
 
         await message.reply_text(
-            text=f"**📡 Started Streaming **\n💡**Title​:** [{title[:65]}]({url})\n🕕 **Duration:** `{duration}` Min\n👤**Requested by​:** {chumtiya}\n⏯️**Playing in:**`{message.chat.title}`\n🎥 **Stream type:** YouTube music\n",
+            text=f"**📡 sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ **\n💡**ᴛɪᴛʟᴇ ​:** [{title[:65]}]({url})\n🕕 **ᴅᴜʀᴀᴛɪᴏɴ :** `{duration}` Min\n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {chumtiya}\n⏯️**ᴘʟᴀʏɪɴɢ ɪɴ :**`{message.chat.title}`\n🎥 **sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :** ʏᴏᴜᴛᴜʙᴇ ᴍᴜsɪᴄ\n",
         reply_markup=InlineKeyboardMarkup(
             [
                 [

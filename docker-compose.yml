@@ -1,4 +1,4 @@
-version: "1.7"
+1version: "1.7"
 services:
   worker:
     build: .

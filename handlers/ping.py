@@ -55,7 +55,7 @@ async def help(client: Client, message: Message):
         caption=" Pinging...⚡ ",
     )
     await jay.edit_text(
-        f"""<b> ᴘᴏɴɢ ᴘɪɴɢ ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ ᴜᴘᴛɪᴍᴇ : {bot_uptime}\n🔮 ᴄᴘᴜ : {cpu}%\n💫 ᴅɪsᴋ : {disk}%\n❤️ ʀᴀᴍ : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴘʀɪɴᴄᴇ ᴀʀɪʏᴀɴ🥀](https://t.me/Prince_ariyan_143)||""",
+        f"""<b> ᴘᴏɴɢ ᴘɪɴɢ ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} sʏsᴛᴇᴍ sᴛsᴛs :</u></b>\n\n✨ ᴜᴘᴛɪᴍᴇ : {bot_uptime}\n🔮 ᴄᴘᴜ : {cpu}%\n💫 ᴅɪsᴋ : {disk}%\n❤️ ʀᴀᴍ : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴘʀɪɴᴄᴇ ᴀʀɪʏᴀɴ](https://t.me/Prince_ariyan_143)||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [

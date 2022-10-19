@@ -210,8 +210,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📨 ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                   InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
-                   InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ ", callback_data="close_play")
+                    InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
                 ],
             ]
         ),
@@ -238,7 +237,6 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
-                    InlineKeyboardButton("🗑️ ᴄʟᴏsᴇ ᴍᴇɴᴜ ", callback_data="close_play")
                 ],
             ]
         ),

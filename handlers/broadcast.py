@@ -1,4 +1,4 @@
-1import asyncio
+import asyncio
 
 from pyrogram import Client, filters
 from pyrogram.types import Dialog, Chat, Message

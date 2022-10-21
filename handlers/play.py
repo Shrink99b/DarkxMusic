@@ -236,7 +236,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📨 ᴜᴘᴅᴀᴛᴇ ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                    InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/ariyan_server")
+                    InlineKeyboardButton("🥀 ᴍʏ sᴇʀᴠᴇʀ ", url=f"https://t.me/hjhvvl")
                 ],
             ]
         ),
